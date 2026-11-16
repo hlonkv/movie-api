@@ -1,0 +1,11 @@
+{
+  "name": "movie-api",
+  "version": "1.0.0",
+  "description": "Vcloud scraper",
+  "main": "api/index.js",
+  "dependencies": {
+    "express": "^4.19.0",
+    "puppeteer-core": "^22.0.0",
+    "@sparticuz/chromium": "^123.0.0"
+  }
+}
